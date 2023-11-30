@@ -1,0 +1,14 @@
+Z:\учеба\git9\task68\obj\Debug\net7.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+Z:\учеба\git9\task68\obj\Debug\net7.0\task68.AssemblyInfoInputs.cache
+Z:\учеба\git9\task68\obj\Debug\net7.0\task68.AssemblyInfo.cs
+Z:\учеба\git9\task68\obj\Debug\net7.0\task68.csproj.CoreCompileInputs.cache
+Z:\учеба\git9\task68\bin\Debug\net7.0\task68.exe
+Z:\учеба\git9\task68\bin\Debug\net7.0\task68.deps.json
+Z:\учеба\git9\task68\bin\Debug\net7.0\task68.runtimeconfig.json
+Z:\учеба\git9\task68\bin\Debug\net7.0\task68.dll
+Z:\учеба\git9\task68\bin\Debug\net7.0\task68.pdb
+Z:\учеба\git9\task68\obj\Debug\net7.0\task68.dll
+Z:\учеба\git9\task68\obj\Debug\net7.0\refint\task68.dll
+Z:\учеба\git9\task68\obj\Debug\net7.0\task68.pdb
+Z:\учеба\git9\task68\obj\Debug\net7.0\task68.genruntimeconfig.cache
+Z:\учеба\git9\task68\obj\Debug\net7.0\ref\task68.dll
